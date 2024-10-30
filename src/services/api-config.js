@@ -1,3 +1,3 @@
 export const apiConfig = {
-  baseURL: "http://localhost:333",
+  baseURL: "http://localhost:3333",
 }
